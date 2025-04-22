@@ -1,2 +1,2 @@
 # Tests
-Testing projects
+Projects made for testing
