@@ -4,11 +4,11 @@ csc 102 project - Connor Pirkl & Zachary Sabatino The goal of this project is to
 
 Instructions:
 
-The libraries that will be needed are "matplotlib", "tkinter", and "json"
-Input movie information for both watched movies and planned movies
-“Add Watched” button to add the information inputted for watched movies
-“Add Planned” button to add the information inputted for planned movies
-“Save List" button to save the movie information that was inputted
-“Load List” button to display movie information that is saved in the “movies.json” file
-“Show Genre Graph” button to show the statistics of the movie information inputted in graph form
-“Show Status Pie” button to show the statistics of the movie information inputted in pie chart form
+- The libraries that will be needed are "matplotlib", "tkinter", and "json"
+- Input movie information for both watched movies and planned movies
+- “Add Watched” button to add the information inputted for watched movies
+- “Add Planned” button to add the information inputted for planned movies
+- “Save List" button to save the movie information that was inputted
+- “Load List” button to display movie information that is saved in the “movies.json” file
+- “Show Genre Graph” button to show the statistics of the movie information inputted in graph form
+- “Show Status Pie” button to show the statistics of the movie information inputted in pie chart form
